@@ -18,29 +18,6 @@ Ambitious and creative graduate of Chemistry Faculty of Belarussian State Univer
 * Basic knowledge of JS/TS, HTML, CSS
 * working with Git, GitHub, VS Code
 ## _Code Examples_
-### HTML code:
-```
-<!DOCTYPE HTML>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <link rel="stylesheet" type="text/css" href="style.css">
-        <title>My CV</title>
-    </head>  
-    <body> 
-        <h1>My CV</h1>
-        <div class="general">
-            <h2 class="name">Name<h2>
-            <p>Natalia Perevalova</p>
-            <h2 class="contact">Contact Info</h2>
-            <ul>
-                <li>Email: nperev1314@gmail.com</li>
-                <li>Location: Minsk, Belarus</li>
-            </ul>
-        </div>
-    </body>
-</html>       
-```
 ### CSS code:
 ```css
 h1 {
