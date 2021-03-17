@@ -68,3 +68,14 @@ function nthFibo(n) {
     return sum
  }
 ``` 
+## _Education_
+Name of the Education Establishment: Belarusian State University
+Faculty: Chemistry
+Degree: Specialist
+Specialty: Fundamental Chemistry
+Graduation year: 2018
+
+RS School, HTML Academy, Codacademy, Coursera online courses (Web Development)
+
+## _English Skills_
+B2 (Upper Intermediate). 3 years of experience writing scientific articles, technical documentation. Confident spoken English.
