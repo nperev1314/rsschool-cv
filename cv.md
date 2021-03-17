@@ -17,3 +17,54 @@ Ambitious and creative graduate of Chemistry Faculty of Belarussian State Univer
 * mentoring of junior testers 
 * Basic knowledge of JS/TS, HTML, CSS
 * working with Git, GitHub, VS Code
+## _Code Examples_
+### HTML code:
+```html
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>My CV</title>
+    </head>  
+    <body> 
+        <h1>My CV</h1>
+        <div class="general">
+            <h2 class="name">Name<h2>
+            <p>Natalia Perevalova</p>
+            <h2 class="contact">Contact Info</h2>
+            <ul>
+                <li>Email: nperev1314@gmail.com</li>
+                <li>Location: Minsk, Belarus</li>
+            </ul>
+        </div>
+    </body>
+</html>
+```
+### CSS code:
+```css
+h1 {
+    font-size: 14px;
+    font-family: "Helvetica", Arial, sans-serif;
+    color: #628d35;
+}
+.name {
+    margin: 10px auto;
+    font-size: 12px;
+    font-weight: 700;
+}  
+```
+### JS code: 
+```javascript
+function nthFibo(n) {
+  let a = 0, b = 1, sum;
+  if (n===1) return a;
+  if (n===2) return b;
+  for (let i = 3; i<=n; i++) {
+    sum = a+b;
+    a = b;
+    b = sum;
+  }
+    return sum
+ }
+``` 
