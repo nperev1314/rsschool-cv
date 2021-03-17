@@ -19,7 +19,7 @@ Ambitious and creative graduate of Chemistry Faculty of Belarussian State Univer
 * working with Git, GitHub, VS Code
 ## _Code Examples_
 ### HTML code:
-```html
+```
 <!DOCTYPE HTML>
 <html lang="en">
     <head>
@@ -42,7 +42,7 @@ Ambitious and creative graduate of Chemistry Faculty of Belarussian State Univer
 </html>
 ```
 ### CSS code:
-```css
+```
 h1 {
     font-size: 14px;
     font-family: "Helvetica", Arial, sans-serif;
@@ -55,7 +55,7 @@ h1 {
 }  
 ```
 ### JS code: 
-```javascript
+```
 function nthFibo(n) {
   let a = 0, b = 1, sum;
   if (n===1) return a;
